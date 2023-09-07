@@ -21,6 +21,20 @@ Moreover, I am good at working in a team and appreciate the exchange of knowledg
 
 💪 More about my skills that will help us achieve the best result:
 
+✅ SQLAlchemy, Redux, WebSockets, MaterialUI, Numpy/Pandas, bs4, boto3, filestack, Axios, faker, alembic, TypeORM;
+
+✅ SQL - MySQL, PostgreSQL;
+
+✅ NoSQL - MongoDB, Elasticsearch, Firebase, Redis;
+
+✅ HTML, CSS, LESS, Sass;
+
+✅ AWS, Azure GCP, Heroku;
+
+✅ Git, GitHub, GitLab
+
+✅ Agile, Scrum, Kanban, Waterfall, Pair Programming, Feature Driven;
+
 
 
 
