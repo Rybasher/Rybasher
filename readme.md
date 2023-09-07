@@ -11,8 +11,17 @@ My core competencies include working with:
 
 📌JavaScript/TypeScript
 
-📌Node.js, Express.js, Next.js, Fastify
+📌Node.js, Express.js, Nest.js, Fastify
 
-📌Native.js, React.js, Vue.js, Angular
+📌Native.js, React.js, Vue.js, Angular, Next.js
+
+
+I have experience with several popular frameworks, which allows me to choose the best tool for creating a high-quality user interface according to your needs.
+Moreover, I am good at working in a team and appreciate the exchange of knowledge, but I am also able to independently solve problems and look for new solutions to improve the quality of work.
+
+💪 More about my skills that will help us achieve the best result:
+
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rybasher)
